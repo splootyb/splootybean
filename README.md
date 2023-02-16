@@ -6,5 +6,5 @@ this is like
 my
 website
 hosting
-go away
-idiot
+
+made in like, microsoft frontpage
