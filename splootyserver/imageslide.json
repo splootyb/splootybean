@@ -2,15 +2,15 @@
     "Images": [
       {
         "SavedImageId": 1,
-        "ImageName": "Slideshow/4.png",
-        "Username": "DaSplatyplayz",
-        "RoomName": "RecCenter"
+        "ImageName": "splootyserver/images/slideshow1.png",
+        "Username": "@DaSplatyplayz",
+        "RoomName": "^RecCenter"
       },
       {
         "SavedImageId": 2,
         "ImageName": "Slideshow/2.png",
         "Username": "f",
-        "RoomName": "Skid has NOT failed to explain"
+        "RoomName": "Skid has failed to explain"
       },
       {
         "SavedImageId": 3,
