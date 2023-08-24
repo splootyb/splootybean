@@ -1,0 +1,18 @@
+Patch v0.1.0:
+-Added support for way more builds
+-Selected skins now save
+-Camera now saves photos to SaveData/Photos
+-Added Film, KO Icons, Hair Dye, and more potions
+-Consumables now work in late 2018
+-Added support for outfits
+-Alot more avatar items
+-Improved support for Custom Rooms
+-Many more improvements
+
+First public release of RebornRec, Report bugs and give suggestions in the Discord server.
+
+Supports every build from 2016-2018, All builds currently available are in the #builds channel inside the Discord server.
+
+Credits:
+@andry6702#9812 - Helping with porting almost all of the custom rooms.
+@tuckerisapizza#1356 - Creator of OpenRec, which is what RebornRec is based on.
