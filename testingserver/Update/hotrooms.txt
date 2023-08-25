@@ -256,7 +256,7 @@
     },
     {
         "RoomId": 27,
-        "Name": "QuestForDraucula",
+        "Name": "the scary one",
         "Description": "Gather your vampire hunting crew, conquer a legendary castle, and restore peace to Rec Room!",
         "CreatorPlayerId": 72963398,
         "ImageName": "d0df003353914adfaecdd23f428208b6",
